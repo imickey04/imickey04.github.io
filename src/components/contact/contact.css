@@ -133,3 +133,15 @@ button{
     }
 
 }
+
+@media screen and (max-width: 375px) {
+    
+    .contact-description{
+        display: none;
+    }
+
+    .contact-info-item{
+        font-size: 13px;
+    }
+
+}
