@@ -107,3 +107,23 @@
     }
 
 }
+
+@media screen and (max-width: 375px) {
+    
+    .intro-line{
+        font-size: 22px;
+    }
+
+    .intro-name{
+        font-size: 46px;
+    }
+
+    .intro-title-item{
+        font-size: 17px;
+    }
+
+    .intro-description{
+        font-size: 13px;
+    }
+
+}
