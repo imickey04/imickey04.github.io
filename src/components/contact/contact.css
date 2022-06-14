@@ -106,7 +106,8 @@ button{
     }
 
     .contact-description{
-        display: none;
+        font-size: .75rem;
+        font-weight: 100;
     }
 
     form{
