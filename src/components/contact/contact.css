@@ -92,9 +92,9 @@ button{
 
 @media screen and (max-width: 480px) {
     
-    .contact-wrapper{
+   .contact-wrapper{
         flex-direction: column;
-        padding: auto 50px;
+        padding: 0 50px;
     }
 
     .contact-title{
@@ -102,7 +102,7 @@ button{
     }
 
     .contact-info-item{
-        margin: 20px 0;
+        margin: 15px 0;
     }
 
     .contact-description{
@@ -114,10 +114,21 @@ button{
         margin-top: 0;
         /* flex-wrap: wrap; */
     }
-
+    
     input{
+        height: 30px;
         width: 65%;
+    }
+    
+    textarea{
+        height: 50px;
+    }
+
+    button{
         height: 40px;
+        display: flex;
+        align-items: center;
+        margin-bottom: 0;
     }
 
 }
