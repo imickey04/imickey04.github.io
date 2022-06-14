@@ -15,7 +15,7 @@ const About = () => {
         <div className='about-right'>
             <h1 className='about-title'>About Me</h1>
             <p className='about-subtitle'>
-                This portfolio is just a showcase of some of my skills, other projects are on the way: stay connected to enjoy them also!
+                This portfolio is just to showcase of some of my skills, other major projects are on the way: stay connected to enjoy them also!
             </p>
             <p className='about-description'>
                 I just love to Develop new things. I'm also a good Problem Solver who loves to code everyday.
