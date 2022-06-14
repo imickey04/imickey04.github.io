@@ -37,6 +37,7 @@
     }
   
     .productList-description {
-      display: none;
+      font-size: .85rem;
+      font-weight: 100;
     }
   }
