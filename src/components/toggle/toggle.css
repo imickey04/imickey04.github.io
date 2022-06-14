@@ -1,0 +1,29 @@
+.toggle{
+    width: 60px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid #999;
+    background-color: #fff;
+    padding: 5px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.toggle-ico{
+    width: 15px;
+    height: 15px;
+}
+
+.toggle-btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #999;
+    position: absolute;
+    cursor: pointer;
+}

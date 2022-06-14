@@ -1,0 +1,42 @@
+.productList{
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.productList-text{
+    width: 65%;
+}
+
+.productList-title{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.productList-description{
+    margin: 20px auto;
+}
+
+.productList-items{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 480px) {
+
+    .productList {
+      padding: 10px;
+    }
+  
+    .productList-text {
+      width: 100%;
+    }
+  
+    .productList-description {
+      display: none;
+    }
+  }

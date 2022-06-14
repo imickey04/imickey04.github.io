@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bd03ab5.css",
+    "main.js": "/static/js/main.904540ae.js",
+    "static/media/sun1.png": "/static/media/sun1.bd2d72002042dddff9cb.png",
+    "static/media/Me3.png": "/static/media/Me3.be78de6a809fc528d6e2.png",
+    "static/media/CSS_Skill.png": "/static/media/CSS_Skill.ca49b8e6c10ce961353a.png",
+    "static/media/moon1.png": "/static/media/moon1.77ea998e74af33e5e0bf.png",
+    "static/media/flipkart-ui-clone.png": "/static/media/flipkart-ui-clone.d2857197366a79033dad.png",
+    "static/media/advice-app.png": "/static/media/advice-app.33ad4c1e7b3fc65dbff1.png",
+    "static/media/Me5.jpeg": "/static/media/Me5.b0239bbafb6648eb4108.jpeg",
+    "static/media/location.png": "/static/media/location.62841ec80537aea028a7.png",
+    "static/media/email.png": "/static/media/email.08faf50832c29185ae0e.png",
+    "static/media/expense-tracker.png": "/static/media/expense-tracker.62368f87bbf15e9ffe03.png",
+    "static/media/text-to-speech.png": "/static/media/text-to-speech.f06be80a1931795f64ef.png",
+    "static/media/sorting-visualizer.png": "/static/media/sorting-visualizer.cd4f6d94e378af9fd5ef.png",
+    "static/media/chat-bot.png": "/static/media/chat-bot.94ef1a331f519cb71b7e.png",
+    "static/media/call.png": "/static/media/call.8e5ed300e092dc7bcfea.png",
+    "index.html": "/index.html",
+    "main.2bd03ab5.css.map": "/static/css/main.2bd03ab5.css.map",
+    "main.904540ae.js.map": "/static/js/main.904540ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bd03ab5.css",
+    "static/js/main.904540ae.js"
+  ]
+}

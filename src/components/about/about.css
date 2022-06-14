@@ -1,0 +1,102 @@
+.about{
+    height: 100vh;
+    /* background-color: blueviolet; */
+    display: flex;
+    align-items: center;
+}
+
+.about-left{
+    height: 100%;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.about-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.about-right{
+    flex: 1;
+}
+
+.about-card.bg{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: rgba(89, 19, 19, 0.885);
+}
+
+.about-card{
+    width: 60%;
+    height: 70vh;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.about-title{
+    font-weight: 400;
+}
+
+.about-subtitle{
+    margin: 20px auto;
+}
+
+.about-description{
+    font-weight: 300;
+}
+
+.about-skill{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.about-skill-texts{
+    width: 70%;
+    margin-left: 15px;
+}
+
+.about-skill-img{
+    widows: 120px;
+    height: 120px;
+    border-radius: 20px;
+}
+
+.about-skill-title{
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+@media screen and (max-width: 480px) {
+    
+    .about{
+        flex-direction: column;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .about-left{
+        width: 100%;
+    }
+
+    .about-card{
+        height: 30vh;
+    }
+
+    .about-card.bg .about-skill{
+        display: none;
+    }
+
+    .about-right{
+        padding: 20px;
+    }
+
+}
