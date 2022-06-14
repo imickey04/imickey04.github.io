@@ -53,8 +53,7 @@ const Contact = () => {
 
             <div className="contact-right">
                 <p className="contact-description">
-                    <strong>What's Your Story?</strong> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias autem alias in perferendis vitae ab reiciendis eum laudantium impedit perspiciatis!
-                </p>
+                    <strong>Want to connect & contribute with me?</strong> A supportive community can't judge anyone. Take me to your community for growth with both sides. More builds are coming soon...</p>
 
                 <form ref = { formRef } onSubmit={submitForm} action="">
                     <input style={{backgroundColor: darkMode && "#333", color: darkMode && "#fff"}} type="text" placeholder='Enter Your Name' name='user_name' />
