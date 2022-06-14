@@ -100,3 +100,27 @@
     }
 
 }
+
+@media screen and (max-width: 375px) {
+    
+    .about-title{
+        font-size: 30px;
+    }
+
+    .about-subtitle{
+        font-size: 13px;
+    }
+
+    .about-description{
+        font-size: 12px;
+    }
+
+    .about-skill-title{
+        font-size: 13px;
+    }
+
+    .about-skill-description{
+        font-size: 12px;
+    }
+
+}
