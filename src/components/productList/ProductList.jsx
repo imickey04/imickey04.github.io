@@ -9,7 +9,7 @@ const ProductList = () => {
         <div className="productList-texts">
             <h1 className="productList-title">Stay Goofy, Stay Weird</h1>
             <p className="productList-description">
-                How can yuo define a developer? Of course by seeing his / her <strong>Builds</strong>. Here're mine...
+                How can you define a developer? Of course by seeing his / her <strong>Builds</strong>. Here're mine...
                 Please review them & contact with me. Obviously, another builds are on the way! 
             </p>
         </div>
